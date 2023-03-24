@@ -54,7 +54,7 @@ Paste https dan wss dari Alchemy tadi kesini
 Bisa aktifkan `Prover` kalo spek nya mencukupi [ 8/16 core CPU dan 32GB  RAM ]. Jika spek mencukupi, silahkan aktifkan `Prover`
 Ubah `false` menjadi `true` lalu paste Private Key wallet baru kalian
 
-<p align="left"><img height="auto" width="auto" src="https://user-images.githubusercontent.com/98658943/227561715-fa7307c4-2783-4475-a5e8-3ecce9756b47.png"</p>
+<p align="left"><img height="auto" width="auto" src="https://user-images.githubusercontent.com/98658943/227565030-d31356a3-c1aa-4cfc-bbb2-c18774d3903b.png"</p>
 
 # RUN!
 
