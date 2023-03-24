@@ -76,10 +76,12 @@ Cek logs `Prover` kalo di aktifin
 ```
 cd ~/simple-taiko-node
 docker compose logs -f l2_execution_engine
+```
 
 Cek stats
 
 buka link ini di browser kalian, ganti `IPVPS` ke IP VPS mu
+  
 ```
 http://IPVPS:3000/d/L2ExecutionEngine/l2-execution-engine-overview?orgId=1&refresh=10s
 ```
